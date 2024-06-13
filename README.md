@@ -12,3 +12,7 @@ BossCMD is a Python-based custom command line interface (CLI) that offers a tail
 - The script is adaptable and can be expanded with additional commands and features as needed.
 
 BossCMD is more than just a command line tool; it's a customizable environment that caters to the specific needs of its users, whether it's for leisure or administrative tasks. Its blend of security, personalization, and utility makes it a valuable addition to any user's toolkit.
+
+## EARLY ALPLA
+
+This is in early alpha stage. SO please standby as there will be more commits as development continues.
