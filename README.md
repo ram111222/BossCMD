@@ -19,7 +19,7 @@ This is in early alpha stage. SO please standby as there will be more commits as
 
 ## SUPPORT
 We now have a trello to show our status
-https://trello.com/b/CIW0fVeD/project-bosscmd
+[Trello](https://trello.com/b/CIW0fVeD/project-bosscmd)
 There is also a support server you can find here.
 [Discord](https://discord.gg/dsQXcwfBJB)
 Keep in mind this is all in development and will take time since i am the only developer
