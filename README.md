@@ -16,3 +16,10 @@ BossCMD is more than just a command line tool; it's a customizable environment t
 ## EARLY ALPLA
 
 This is in early alpha stage. SO please standby as there will be more commits as development continues.
+
+## SUPPORT
+We now have a trello to show our status
+https://trello.com/b/CIW0fVeD/project-bosscmd
+There is also a support server you can find here.
+https://discord.gg/EWB7HTNK
+Keep in mind this is all in development and will take time since i am the only developer
