@@ -1,3 +1,6 @@
+# Small note. Latest main.py file is located under MASTER instead of main. I am looking into this as we speak and apologize
+
+
 # BossCMD: A Custom Command Line Interface with Enhanced Features
 
 BossCMD is a Python-based custom command line interface (CLI) that offers a tailored terminal experience for users. It showcases a distinctive ASCII art logo that greets users upon launch, setting a personalized tone for the session.
